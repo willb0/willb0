@@ -1,21 +1,21 @@
-<h1 align="center">Hi, I'm Will</h1>
-<h3 align="center">A curious student exploring mathmatical and statistical applications through various programming tools.</h3>
+<h1 align="center">Hi, I'm Will Bell🥺👉👈</h1>
+<h3 align="center">A cuwious student expwowing mwathmaticaw and statisticaw appwications thwough vawious pwogwamming toows.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willb0&label=Profile%20views&color=0e75b6&style=flat" alt="willb0" /> </p>
 
-- 🔭 I’m currently working on **A reddit sentiment scraper**
+- 🔭 I’m cuwwentwy wowking on **A weddit sentiment scwapew**
 
-- 🌱 I’m currently learning **tensorflow, React.js, node.js, theano**
+- 🌱 I’m cuwwentwy weawning **tensowflow, Weact.js, node.js, theano**
 
-- 👯 I’m looking to collaborate on **Any cool web development(backend), machine learning, or otherwise exciting projects**
+- 👯 I’m wooking to cowwabowate on **Any coow web devewopment(backend), mwachine weawning, ow othewwise exciting pwojects**
 
-- 🤝 I’m looking for help with **machine learning engineering and pipelines**
+- 🤝 I’m wooking fow hewp with🥺🥺🥺🥺🥺🥺👉👈 **mawchine weawning engineewing and pipewines**🥺🥺🥺👉👈
 
 - 💬 Ask me about **Django, NumPy, Pandas, BeautifulSoup, OpenCV**
 
-- 📫 How to reach me **willbell0@icloud.com**
+- 📫 How to weach me **willbell0@icloud.com**
 
-- ⚡ Fun fact **I enjoy snowboarding, weightlifting, and guitar**
+- ⚡ Fun fact **I enjoy snowboawding, weightwifting, and guitaw**🥺🥺👉👈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
