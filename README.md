@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+just a data science boi tryna figure out how to make software
+
+hmu on twitter @senorgrubby
+
 <!--
 **willb0/willb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
