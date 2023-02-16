@@ -1,21 +1,10 @@
-### Hi there 👋
-
 just a data science boi tryna figure out how to make software
 
-i have experience with:  
-- Python: academic experience as well as building data driven APIs and frontend dashboards
-- SQL: spent a summer at Cloudflare mucking analytics SQL queries, also have academic experience
-- Java/React: spent a summer at Amazon working Java Spring APIs and React components for Alexa dev website 
-- HTML/CSS/JS: not advanced, but enough 
+i like Python, NLP, data pipelines, and machine learning systems
 
-i am learning:
-- Rust: built a web server for clustering text documents
-- Go: working through Go basics, will build first project soon.  
+i am learning Rust, Go, and some more about Topic Modeling
 
-some other stuff I've worked extensively with:
-streamlit, PyData(numpy,pandas,matplotlib,sklearn...), Docker/docker-compose, bash/zsh
-
-hmu on twitter @senorgrubby
+hmu on twitter @senorgrubby or on keybase @grubbby
 
 <!--
 **willb0/willb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
