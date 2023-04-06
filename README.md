@@ -1,4 +1,4 @@
-just a data science boi tryna figure out how to make software
+i am an undergrad at Purdue studying data science + math
 
 i like Python, NLP, data pipelines, and machine learning systems
 
