@@ -2,7 +2,9 @@ i am an undergrad at Purdue studying data science + math
 
 i like Python, NLP, data pipelines, and machine learning systems
 
-i am learning Rust, Go, and some more about Topic Modeling
+i am learning Rust, Go, and some more about NLP/unsupervised clustering
+
+currently working on data analytics/engineering @ Docker
 
 hmu on twitter @senorgrubby or on keybase @grubbby
 
