@@ -1,6 +1,6 @@
 bing bong
 
-hmu on twitter @senorgrubby or on keybase @grubbby
+hmu on keybase @grubbby or will [at] grubby.dev
 
 <!--
 **willb0/willb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
